@@ -23,8 +23,7 @@ To build an executive-level dashboard for AtliQ Hardware that delivers actionabl
 
 ## 📂 Files in this Repo
 
-- `AtliQ_Business_Insights.pbix` → Power BI report file *(hosted externally due to file size)*
-- `Dashboard - Preview.pdf` → Dashboard previews in pdf format
+- `Dashboard - Preview.pdf` → Dashboard previews in pdf format (Cannot push file due to file size)
 - `README.md` → Project documentation
 
 ---
@@ -32,7 +31,7 @@ To build an executive-level dashboard for AtliQ Hardware that delivers actionabl
 ## 🔗 Access the Report
 
 - 📥 
-- 🔎 **Live Dashboard **: [[Power BI Service Link](https://app.powerbi.com/...)](https://app.powerbi.com/view?r=eyJrIjoiNmYwNGIxMzktYzM5OS00YzQxLTkzOGEtMDcwOTM2YTIwNjdkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+- 🔎 **Live Dashboard Link **: (https://app.powerbi.com/...)](https://app.powerbi.com/view?r=eyJrIjoiNmYwNGIxMzktYzM5OS00YzQxLTkzOGEtMDcwOTM2YTIwNjdkIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 ---
 
@@ -41,7 +40,8 @@ To build an executive-level dashboard for AtliQ Hardware that delivers actionabl
 - Power BI Desktop
 - DAX for calculated measures
 - Power Query for data transformation
-- Excel (Sample Dataset)
+- Excel
+- MySQL
 
 ---
 
