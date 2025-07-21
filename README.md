@@ -23,7 +23,7 @@ To build an executive-level dashboard for AtliQ Hardware that delivers actionabl
 
 ## 📂 Files in this Repo
 
-- `Dashboard - Preview.pdf` → Dashboard previews in pdf format (Cannot push file due to file size)
+- `Dashboard - Preview.pdf` → Dashboard previews in pdf format (Cannot push .pbix file due to file size)
 - `README.md` → Project documentation
 
 ---
